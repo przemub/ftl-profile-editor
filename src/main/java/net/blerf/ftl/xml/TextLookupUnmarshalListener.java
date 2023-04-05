@@ -3,7 +3,7 @@ package net.blerf.ftl.xml;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.xml.bind.Unmarshaller;
+import jakarta.xml.bind.Unmarshaller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
