@@ -1,3 +1,7 @@
+28
+Fixed support for Java 9+ (tested on Java 11, Java 23)
+Dropped support for Java <8
+
 27
 Added support for FTL 1.6.1+ resources
 Added partial editing for FTL 1.6.1+ saved games / full editing of profiles
