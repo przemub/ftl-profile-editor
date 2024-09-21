@@ -16,12 +16,11 @@ Status
 
 <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot05.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot05_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot04.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot04_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot02.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot02_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot06.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot06_thumb.jpg" width="145px" height="auto" /></a>
 
-To download compiled binaries, [click here](https://sourceforge.net/projects/ftleditor/).
+To download compiled binaries, [click here](https://github.com/przemub/ftl-profile-editor/releases/tag/v28).
 
 Comments can be made in a forum thread [here](https://subsetgames.com/forum/viewtopic.php?f=7&t=10959).
 
-I can accept PayPal donations [here](https://vhati.github.io/donate.html).
-That would be fantastic.
+The original author (Vhadi) can accept PayPal donations [here](https://vhati.github.io/donate.html).
 
 
 Usage
